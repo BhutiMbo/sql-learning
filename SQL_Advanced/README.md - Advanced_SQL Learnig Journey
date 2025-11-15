@@ -1,0 +1,57 @@
+# 🚀 Advanced SQL Learning Journey
+
+Welcome to the next chapter of my SQL learning journey! This repository documents my progress through an advanced SQL course on Udemy, building on foundational skills and diving deeper into powerful database techniques.
+
+---
+
+## 🎯 Course Objectives
+
+This course equips me with the ability to:
+
+- ✅ Create and modify database tables using `CREATE TABLE` and `ALTER TABLE`
+- ✅ Choose appropriate data types for various use cases
+- ✅ Use built-in functions to manipulate:
+  - Dates (`GETDATE`, `DATEADD`, `DATEDIFF`)
+  - Numbers (`ROUND`, `ABS`, `POWER`)
+  - Strings (`LEFT`, `RIGHT`, `SUBSTRING`, `REPLACE`)
+- ✅ Retrieve and filter data using:
+  - `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`
+- ✅ Perform joins to combine data across tables:
+  - `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`
+  - Identify and handle missing data
+- ✅ Modify data with:
+  - `INSERT`, `UPDATE`, `DELETE`
+  - Export data using `SELECT INTO`
+- ✅ Implement database logic and structure:
+  - Constraints (`PRIMARY KEY`, `FOREIGN KEY`, `CHECK`)
+  - Views and Triggers
+- ✅ Use advanced SQL constructs:
+  - `UNION`, `CASE`, `MERGE`
+  - Stored Procedures and Error Handling
+- ✅ Apply analytical techniques:
+  - Ranking functions (`ROW_NUMBER`, `RANK`, `DENSE_RANK`)
+  - Grouping sets, `GROUP BY ROLLUP`, `GROUP BY CUBE`
+  - Work with geography and geometry data types
+- ✅ Build complex queries:
+  - Subqueries and Common Table Expressions (CTEs)
+  - `PIVOT`, User-Defined Functions (UDFs), `APPLY`, Synonyms
+- ✅ Handle semi-structured data:
+  - Parse and manipulate `XML` and `JSON`
+- ✅ Understand performance and reliability:
+  - Transactions and ACID properties
+  - Query optimization techniques
+  - Row-based vs Set-based operations
+
+---
+
+## 🧠 Personal Goals
+
+- Reinforce concepts through hands-on practice and documentation
+- Create visual guides and examples for each major topic
+- Build a portfolio of SQL scripts and mini-projects
+- Reflect on challenges and breakthroughs in learning
+
+---
+
+## 📂 Repository Structure
+
